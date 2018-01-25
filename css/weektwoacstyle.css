@@ -1,0 +1,20 @@
+html {
+	background-image: url('../images/1.jpg');
+	background-size: 100%;
+}
+
+#clock {
+	background: url('../images/clockface.jpg');
+	position: relative;
+	margin: 0 auto;
+	height: 894px;
+	width: 894px;
+}
+
+#clock div {
+	position: absolute;
+	left: 45%;
+	top: 16%;
+}
+
+
